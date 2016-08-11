@@ -25,7 +25,7 @@ public class CalcTest
 		int b=10;
 		
 		int actual = calc.add(a, b);
-		int expected=30;
+		int expected=40;
 		
 		Assert.assertEquals(expected, actual);
 	}
